@@ -8,6 +8,9 @@
 ## Fun GIF
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+
 
 
 
