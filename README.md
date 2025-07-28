@@ -1,8 +1,18 @@
-## 👋 Hi there! Welcome to my GitHub Profile
+## 👋 Hi there! Welcome to My GitHub Profile
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ping-Phantom39&style=flat-square" alt="Visitor Badge" />
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 I'm a passionate Computer Science student and developer  
+💡 I enjoy solving real-world problems through code  
+🖥️ I love working with C/C++, Shell, and Linux  
+🌱 Currently learning full-stack development and systems programming  
+📫 How to reach me: [Email / Socials – add here if you want]  
 
 ---
 
@@ -26,6 +36,22 @@
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ping-Phantom39&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ping-Phantom39&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📌 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ping-Phantom39&layout=compact&theme=tokyonight" alt="Top Languages" />
