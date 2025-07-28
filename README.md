@@ -8,11 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a passionate Computer Science student and developer  
-💡 I enjoy solving real-world problems through code  
-🖥️ I love working with C/C++, Shell, and Linux  
-🌱 Currently learning full-stack development and systems programming  
-📫 How to reach me: [Email / Socials – add here if you want]  
+🎓 I'm a passionate Computer Science student  
 
 ---
 
