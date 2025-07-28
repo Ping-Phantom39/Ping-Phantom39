@@ -1,9 +1,10 @@
+## 👋 Hi there! Welcome to my GitHub Profile
 
-## Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ping-Phantom39&style=flat-square" alt="Visitor Badge" />
+</p>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Ping-Phantom39&style=flat-square)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ping-Phantom39&layout=compact)
+---
 
 ## ✨ Anime Tech Vibes
 
@@ -11,17 +12,20 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Anime Girl with Computer" />
 </p>
 
+---
+
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+---
 
+## 📊 GitHub Stats
 
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ping-Phantom39&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
