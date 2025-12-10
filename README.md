@@ -52,4 +52,7 @@
   <a href="https://www.linkedin.com/in/segfau?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
+   <a href="https://discord.com/users/hello_world.39" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-hello_world.39-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord Badge"/>
+   </a>
 </p>
