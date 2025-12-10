@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/Linux-00FFE0?style=for-the-badge&logo=linux&logoColor=000" />
   <img src="https://img.shields.io/badge/Bash_Scripting-7000FF?style=for-the-badge&logo=gnu-bash&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-FC00FF?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=fff" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ping-Phantom39&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Ping-Phantom39&theme=tokyonight&date_format=j%20M%5B%20Y%5D" /> </p>
 
 
 ---
@@ -35,4 +35,21 @@
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ping-Phantom39&theme=radical" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always_Learning-🔥-FF6EC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active_Contributor-💻-00FFE0?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/segfau?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
 </p>
