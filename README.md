@@ -26,10 +26,7 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ping-Phantom39&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Ping-Phantom39&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cache_bust=1" />
 
 
 
