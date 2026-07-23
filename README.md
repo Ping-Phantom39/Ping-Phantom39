@@ -34,7 +34,7 @@
 
 ### 🚀 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,aws,docker,bash,html,css,mysql,c,cpp,gitlab,golang&perline=8" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=linux,git,aws,docker,bash,html,css,mysql,c,cpp,gitlab,golang,nginx,postgresql,vim,neovim,terraform,ansible,github,supabase,ubuntu,prometheus,grafana,vscode&perline=8" alt="Skill Icons" />
 </p>
 
 ---
