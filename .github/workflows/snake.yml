@@ -1,4 +1,3 @@
-```yaml
 name: Generate Cyberpunk Contribution Snake
 
 on:
@@ -43,4 +42,3 @@ jobs:
             git commit -m "chore: update contribution snake"
             git push
           fi
-```
